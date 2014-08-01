@@ -22,7 +22,6 @@
     "gulp-util": "^3.0.0",
     "jshint-stylish": "^0.4.0",
     "karma": "^0.12.17",
-    "karma-chrome-launcher": "^0.1.4",
     "karma-jasmine": "^0.1.5",
     "karma-phantomjs-launcher": "^0.1.4",
     "lodash": "~2.4.1",

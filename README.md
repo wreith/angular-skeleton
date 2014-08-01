@@ -122,4 +122,7 @@ Open a new shell and then run:
 gulp e2e
 ```
 
-E2E tests are executed on a new server on port 8001 with the dist folder as its root directory .
+E2E tests are executed on a new server on port 8001 with the dist folder as its root directory.
+It uses by default Chrome browser.
+
+Enjoy ! =)
