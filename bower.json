@@ -1,0 +1,28 @@
+{
+  "name": "angular-skeleton",
+  "version": "0.1.0",
+  "authors": [
+    "Wreith"
+  ],
+  "description": "Project structure for angularJS application",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20",
+    "angular-route": "~1.2.20"
+  },
+  "devDependencies": {
+    "angular-scenario": "~1.2.20",
+    "angular-mocks": "~1.2.20"
+  }
+}

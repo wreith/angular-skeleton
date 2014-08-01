@@ -1,0 +1,4 @@
+.tmp
+dist
+app/bower_components
+node_modules

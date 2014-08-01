@@ -1,0 +1,41 @@
+a {
+  color: #008CBA;
+  text-decoration: none;
+  line-height: inherit;
+}
+
+img {
+  max-width: 15rem;
+  max-height: 15rem;
+}
+
+ul {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.11111rem;
+  list-style-position: outside;
+  font-family: inherit;
+
+  &.inline-list {
+    margin: 0 auto 0.94444rem auto;
+    margin-left: -1.22222rem;
+    margin-right: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+
+    > li {
+      list-style: none;
+      float: left;
+      margin-left: 1.22222rem;
+      display: block;
+    }
+
+    > * {
+      display: block;
+    }
+  }
+}
+
+
+
