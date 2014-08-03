@@ -11,7 +11,7 @@ You must have [node.js](http://nodejs.org/) and npm installed before going furth
 
 This project uses several node.js tools and has been tested with a version of 1.4.21 of npm.
 
-You will also need [gulp](http://http://gulpjs.com/) to run tasks
+You will also need [gulp](http://gulpjs.com/) to run tasks
 
 ```
 npm install -g gulp
