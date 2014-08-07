@@ -1,4 +1,4 @@
-angular-skeleton
+angular-skeleton [![Build Status](https://travis-ci.org/wreith/angular-skeleton.svg?branch=master)](https://travis-ci.org/wreith/angular-skeleton)
 ================
 
 Angular-Skeleton is starter kit for building [AngularJS](https://angularjs.org) application.
