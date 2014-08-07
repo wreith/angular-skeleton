@@ -137,8 +137,9 @@ gulp.task("e2e", ["build", "integrationServer"], function() {
         gutil.log(line);
     });
 
-    protractor.on("exit", function() {
+    return protractor.on("exit", function(exitCode) {
         connect.serverClose();
+        return exitCode;
     });
 });
 
